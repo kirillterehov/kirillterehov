@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://t.me/KirillTerex">
-    <img src="https://img.shields.io/badge/Telegram&style=for-the-badge&logo=Telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-090909?&style=for-the-badge&logo=Telegram&logoColor=white">
   </a>
 </p>
 
