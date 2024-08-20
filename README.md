@@ -15,7 +15,7 @@
 
 ![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C&logoColor=5B69BB)
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=5B69BB)
-![Bash](https://img.shields.io/badge/%20Bash-090909?style=for-the-badge&logo=%20Bash&logoColor=ffcb00)
+![Bash](https://img.shields.io/badge/GNU%20Bash-090909?style=for-the-badge&logo=GNU%20Bash&logoColor=ffcb00)
 ![Git](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=GIT&logoColor=ffcb00)
 
 ## :notebook: Пройденные курсы 
