@@ -1,6 +1,6 @@
 <img src="https://github.com/kirillterehov/kirillterehov/blob/main/assets/header.jpg" alt="Header" width="1900" height="500">
 
-# <p align="center"> Всем привет👋, меня зовут Кирилл! :sparkles: </p>
+# <p align="center"> Всем привет👋, меня зовут Кирилл!</p>
 
 <p align="center">
   <a href="https://t.me/KirillTerex">
