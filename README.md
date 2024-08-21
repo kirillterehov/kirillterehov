@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://t.me/KirillTerex">
-    <img src = "https://img.shields.io/badge/Telegram-00599C?style=for-the-badge&logo=Telegram&logoColor=white">
+    <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
 
@@ -13,10 +13,10 @@
 
 ## :space_invader: Технологии и инструменты
 
-![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C&logoColor=5B69BB)
-![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=5B69BB)
-![Bash](https://img.shields.io/badge/GNU%20Bash-090909?style=for-the-badge&logo=GNU%20Bash&logoColor=ffcb00)
-![Git](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=GIT&logoColor=ffcb00)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## :notebook: Пройденные курсы 
 
